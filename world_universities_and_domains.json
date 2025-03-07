@@ -31241,11 +31241,21 @@
   },
   {
     "web_pages": ["http://www.bits-pilani.ac.in/"],
-    "name": "Birla Institute of Technology and Science",
+    "name": "Birla Institute of Technology and Science, Pilani",
     "alpha_two_code": "IN",
     "state-province": "Rajasthan",
-    "domains": ["bits-pilani.ac.in"],
-    "country": "India"
+    "domains": ["bits-pilani.ac.in", "pilani.bits-pilani.ac.in"],
+    "country": "India",
+    "latlon": [28.3, 75.6]
+  },
+  {
+    "web_pages": ["http://www.bits-pilani.ac.in/"],
+    "name": "Birla Institute of Technology and Science, Goa",
+    "alpha_two_code": "IN",
+    "state-province": "Goa",
+    "domains": ["goa.bits-pilani.ac.in"],
+    "country": "India",
+    "latlon": [15.3, 74.1]
   },
   {
     "web_pages": ["http://www.bnmu.in/"],
@@ -31909,7 +31919,17 @@
     "alpha_two_code": "IN",
     "state-province": "Delhi",
     "domains": ["iiitd.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [28.6100, 77.2300]
+  },
+  {
+    "web_pages": ["http://www.iiit.ac.in/"],
+    "name": "International Institute of Information Technology, Hyderabad",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana",
+    "domains": ["iiit.ac.in"],
+    "country": "India",
+    "latlon": [17.3617, 78.474]
   },
   {
     "web_pages": ["https://www.isquareit.edu.in/"],
@@ -31933,7 +31953,8 @@
     "alpha_two_code": "IN",
     "state-province": "Karnataka",
     "domains": ["iiitb.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [12.978, 77.5917]
   },
   {
     "web_pages": ["http://www.iimtrichy.ac.in/"],
@@ -31981,7 +32002,8 @@
     "alpha_two_code": "IN",
     "state-province": "Karnataka",
     "domains": ["iisc.ernet.in", "iisc.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [12.9789, 77.5917]
   },
   {
     "web_pages": ["http://www.iitb.ac.in/"],
@@ -31989,7 +32011,8 @@
     "alpha_two_code": "IN",
     "state-province": "Maharashtra",
     "domains": ["iitb.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [19.0761, 72.8775]
   },
   {
     "web_pages": ["http://www.iitd.ernet.in/", "https://home.iitd.ac.in/"],
@@ -31997,7 +32020,8 @@
     "alpha_two_code": "IN",
     "state-province": "Delhi",
     "domains": ["iitd.ernet.in", "iitd.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [28.6100, 77.2300]
   },
   {
     "web_pages": ["https://iitgn.ac.in/"],
@@ -32021,7 +32045,8 @@
     "alpha_two_code": "IN",
     "state-province": "Telangana",
     "domains": ["iith.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [17.3617, 78.474]
   },
   {
     "web_pages": ["http://www.iitk.ac.in/"],
@@ -32029,7 +32054,8 @@
     "alpha_two_code": "IN",
     "state-province": "Uttar Pradesh",
     "domains": ["iitk.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [26.4, 80.3]
   },
   {
     "web_pages": ["http://www.iitkgp.ernet.in/", "http://www.iitkgp.ac.in/"],
@@ -32037,7 +32063,8 @@
     "alpha_two_code": "IN",
     "state-province": "West Bengal",
     "domains": ["iitkgp.ernet.in", "iitkgp.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [22.3, 87.3]
   },
   {
     "web_pages": ["http://www.iitm.ac.in/"],
@@ -32045,7 +32072,8 @@
     "alpha_two_code": "IN",
     "state-province": "Tamil Nadu",
     "domains": ["iitm.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [13.0, 80.2]
   },
   {
     "web_pages": ["https://itu.edu.pk/"],
@@ -32069,7 +32097,8 @@
     "alpha_two_code": "IN",
     "state-province": "Uttarakhand",
     "domains": ["iitr.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [29.8, 77.8]
   },
   {
     "web_pages": ["http://www.iitp.ac.in/"],
@@ -32077,7 +32106,8 @@
     "alpha_two_code": "IN",
     "state-province": "Bihar",
     "domains": ["iitp.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [25.5940, 85.1376]
   },
   {
     "web_pages": ["http://www.iiti.ac.in/"],
@@ -32085,7 +32115,8 @@
     "alpha_two_code": "IN",
     "state-province": "Madhya Pradesh",
     "domains": ["iiti.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [22.7, 75.8]
   },
   {
     "web_pages": ["http://www.iitj.ac.in/"],
@@ -32093,7 +32124,8 @@
     "alpha_two_code": "IN",
     "state-province": "Rajasthan",
     "domains": ["iitj.ac.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [26.2, 73.0]
   },
   {
     "web_pages": ["http://www.iksvv.com/"],
