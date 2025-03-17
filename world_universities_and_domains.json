@@ -30997,7 +30997,8 @@
     "alpha_two_code": "IN",
     "state-province": "Uttar Pradesh",
     "domains": ["amity.edu"],
-    "country": "India"
+    "country": "India",
+    "latlon": [28.53, 77.39]
   },
   {
     "web_pages": ["http://www.amrita.edu/"],
@@ -32597,7 +32598,8 @@
     "alpha_two_code": "IN",
     "state-province": "Karnataka",
     "domains": ["manipal.edu"],
-    "country": "India"
+    "country": "India",
+    "latlon": [13.35, 74.78]
   },
   {
     "web_pages": ["http://www.manipur.nic.in/maniuniversity.htm"],
