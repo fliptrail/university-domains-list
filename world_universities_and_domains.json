@@ -33159,7 +33159,8 @@
     "alpha_two_code": "IN",
     "state-province": "Punjab and Haryana",
     "domains": ["pgimer.nic.in"],
-    "country": "India"
+    "country": "India",
+    "latlon": [30.73, 76.77]
   },
   {
     "web_pages": ["http://www.pondiuni.org/"],
